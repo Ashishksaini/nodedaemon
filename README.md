@@ -30,6 +30,7 @@ NodeDaemon is a lightweight utility designed to enhance the development workflow
    Replace `file1.js`, `file2.js`, etc. with the names of the files you wish to watch.
 
 4. Start coding! NodeDaemon will handle the rest, keeping your workflow smooth and efficient.
+![image](https://github.com/Ashishksaini/nodedaemon/assets/73321601/b7334157-6c4a-4633-a397-64bd50a6bfa1)
 
 ## Configuration:
 

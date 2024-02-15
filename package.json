@@ -1,0 +1,15 @@
+{
+  "name": "nodedaemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "nodedaemon": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gradient-string": "^2.0.2"
+  }
+}
